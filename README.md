@@ -4,4 +4,4 @@
 - Windows + E: odpiranje raziskovalca datotek (File Explorer)
 - Ctrl + Shift + N: ustvarjanje nove mape
 
-# 2. domača naloga
+# "2. domača naloga"
