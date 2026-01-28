@@ -3,3 +3,9 @@
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+*.exe
+*.out
+*tmp/
+*SystemFiles/
+*.jar
+SystemFiles/

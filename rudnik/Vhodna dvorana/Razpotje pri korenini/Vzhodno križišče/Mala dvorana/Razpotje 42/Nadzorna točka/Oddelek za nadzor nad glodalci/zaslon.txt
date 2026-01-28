@@ -1,0 +1,18 @@
+--------------------------------------
+     _________
+    / ======= \
+   / __________\
+  | ___________ |
+  | | -       | |
+  | |         | |
+  | |_________| |___________________
+  \=____________/                   )
+  / """"""""""" \                  /
+ / ::::::::::::: \             =D-'
+(_________________)
+--------------------------------------
+Na zaslonu naprave piše naslednje.
+
+Napaka tipa glodalec na naslovu:
+Vhodna dvorana/Razpotje pri korenini/Vzhodno križišče/Mala dvorana/Razpotje 42/Novo križišče/Kocka
+

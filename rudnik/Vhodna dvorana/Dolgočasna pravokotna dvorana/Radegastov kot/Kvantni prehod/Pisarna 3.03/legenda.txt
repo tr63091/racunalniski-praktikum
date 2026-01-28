@@ -1,0 +1,49 @@
+%---------% LEGENDA ZA ZEMLJEVID %---------%
+D00 - Vhodna dvorana
+D01 - Dolgočasna pravokotna dvorana
+D02 - Modra dvorana
+D03 - Pisarna 3.03
+D04 - Kuhinja
+D05 - Shramba
+D06 - Knjižnica
+D07 - Prva jedilnica
+D08 - Druga jedilnica
+D09 - Vhod v pisarniški predel
+D10 - Garderoba
+D11 - Sejna soba
+D12 - Pisarna 5.07
+D13 - Zanimiva pravokotna dvorana
+D14 - Soba 3.14
+D15 - Muzej sodobnega rudarjenja
+D16 - Muzej staromodnega rudarjenja
+D17 - Kontrolna soba
+D18 - Mala dvorana
+D19 - Skladišče svetil
+D20 - Kocka
+D21 - Pisarna 5.19
+D22 - Skladišče za metle
+D23 - Zmajevo leglo
+D24 - Zmajeva zakladnica
+D25 - Sektor 51
+D26 - Veliki peskovnik
+D27 - Oddelek za nadzor nad glodalci
+D28 - Zbirališče za najdene predmete
+K01 - Razpotje pri korenini
+K02 - Radegastov kot
+K03 - Kvantni prehod
+K04 - Zahodno križišče
+K05 - Zeleno razpotje
+K06 - Gramozni gozd
+K07 - Recepcija za pisarno 5.07
+K08 - Temačni tunel
+K09 - Kavomat
+K10 - Predsoba muzeja
+K11 - Vhod v muzej
+K12 - Vzhodno križišče
+K13 - Razpotje 42
+K14 - Novo križišče
+K15 - Recepcija za pisarno 5.19
+K16 - Nadzorna točka
+K17 - Rjavo razpotje
+K18 - Podhod pritlikavcev
+
